@@ -1,0 +1,5 @@
+{
+  "binary_accuracy": 0.7154268597104343,
+  "multiclass_accuracy": 0.32750873689465804,
+  "notes": "Metrics are computed on hold-out test set."
+}
